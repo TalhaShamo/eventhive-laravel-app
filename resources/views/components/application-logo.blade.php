@@ -1,0 +1,1 @@
+<img src="{{ asset('images/eventhivelogo.png') }}" alt="EventHive Logo" class="w-14 h-auto">
